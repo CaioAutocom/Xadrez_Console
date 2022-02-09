@@ -14,6 +14,6 @@ namespace tabuleiro
         Azul,
         Vermelha,
         Verde,
-        Branca
+      
     }
 }
